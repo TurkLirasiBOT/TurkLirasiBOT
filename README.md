@@ -1,14 +1,14 @@
-# Merhaba, Benim Adım Cemo Baskann
+# Merhaba, Benim Adım Türk Lirasi
 
 ## Hakkımda
 
-Ben Cemo Baskann, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konularına meraklıyım.
+Ben Türk Lirasi, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konularına meraklıyım.
 
 ## Projeler
 
 - [DepremBot](https://github.com/TurkLirasiBOT/Deprem-Bot): Deprem-Bot 5 geliştirici arkadaş tarafından yapılmış ve tüm depremleri discord üzerinden sizlere bildiren bir bot.
 - [Dismount Bot](https://github.com/TurkLirasiBOT/Dismount-Bot): Dismount bot discord üzerinde kullanıcılara daha iyi hizmet sunabilmek için geliştirilmiş bir bot dur
-- [Car State Simulator](https://github.com/TurkLirasiBOT/car-state-web): Sadece Cemo Baskann tarafından yapılmıştır, geliştirip kullanabilirsiniz.
+- [Car State Simulator](https://github.com/TurkLirasiBOT/car-state-web): Sadece Türk Lirasi tarafından yapılmıştır, geliştirip kullanabilirsiniz.
 
 ## GitHub İstatistiklerim
 
@@ -25,7 +25,7 @@ GitHub profilimdeki blog yazılarıma [buradan](https://dismount-rpg.com.tr/blog
 ## Sosyal Medya
 
 - Twitter: [@TurkLirasi](https://twitter.com/TurkLirasi)
-- LinkedIn: [cemobaskann](https://www.linkedin.com/in/cemobaskann)
+- LinkedIn: [Türk Lirasi](https://www.linkedin.com/in/turklirasi)
 - Kişisel Websitesi: [WebSite](https://www.dismount-rpg.com.tr)
 
 ## İletişim
