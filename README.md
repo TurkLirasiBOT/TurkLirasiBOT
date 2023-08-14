@@ -16,7 +16,7 @@ Ben Cemo Baskann, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 ## Katkılarım
 
-Toplamda **<KATKI_SAYISI>** adet katkıda bulundum.
+Toplamda **25** adet katkıda bulundum.
 
 ## Blog
 
