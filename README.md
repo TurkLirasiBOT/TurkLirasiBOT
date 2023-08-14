@@ -14,6 +14,8 @@ Ben Türk Lirasi, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=TurkLirasiBOT&show_icons=true&count_private=true&hide=stars&theme=dark)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eqselans&theme=dark" alt="eqselans" /></p>
+
 ## Katkılarım
 
 Toplamda **<KATKI_SAYISI>** adet katkıda bulundum.
