@@ -16,9 +16,11 @@ Ben Türk Lirasi, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eqselans&theme=dark" alt="eqselans" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=TurkLirasiBOT" alt="TurkLirasiBOT" /></a> </p>
+
 ## Katkılarım
 
-Toplamda **<KATKI_SAYISI>** adet katkıda bulundum.
+Toplamda **15* adet projede bulundum.
 
 ## Blog
 
