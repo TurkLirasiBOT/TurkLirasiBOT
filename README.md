@@ -16,7 +16,7 @@ Ben Türk Lirasi, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 ## Katkılarım
 
-Toplamda **25** adet katkıda bulundum.
+Toplamda **<KATKI_SAYISI>** adet katkıda bulundum.
 
 ## Blog
 
