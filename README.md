@@ -31,7 +31,3 @@ GitHub profilimdeki blog yazılarıma [buradan](https://dismount-rpg.com.tr/blog
 ## İletişim
 
 Bana e-posta ile [Email Göndermek İsterseniz](mailto:reisalperen003@gmail.com) adresinden ulaşabilirsiniz.
-
-# Discord Activity
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1083567254609870858?hideDiscrim=false)](https://discord.com/users/618444525727383592)
