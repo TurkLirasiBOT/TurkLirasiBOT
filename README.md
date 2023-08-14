@@ -1,8 +1,8 @@
-# Merhaba, Benim Adım [Cemo Baskann]
+# Merhaba, Benim Adım Cemo Baskann
 
 ## Hakkımda
 
-Ben [Cemo Baskann], yazılıma ilgi duyan birisiyim. [Teknoloji/Tasarım/Java] konularına meraklıyım.
+Ben Cemo Baskann, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konularına meraklıyım.
 
 ## Projeler
 
@@ -27,7 +27,3 @@ GitHub profilimdeki blog yazılarıma [buradan](https://dismount-rpg.com.tr/blog
 ## İletişim
 
 Bana e-posta ile [Email Göndermek İsterseniz](mailto:reisalperen003@gmail.com) adresinden ulaşabilirsiniz.
-
-## Lisans
-
-Bu proje [Lisans Adı](LICENSE) ile lisanslanmıştır.
