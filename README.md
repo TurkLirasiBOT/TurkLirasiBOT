@@ -12,7 +12,7 @@ Ben Cemo Baskann, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 ## GitHub İstatistiklerim
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=TurkLirasiBOT&show_icons=true&count_private=true&hide=stars)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=TurkLirasiBOT&show_icons=true&count_private=true&hide=stars&theme=dark)
 
 ## Katkılarım
 
