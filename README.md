@@ -14,9 +14,9 @@ Ben Türk Lirasi, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=TurkLirasiBOT&show_icons=true&count_private=true&hide=stars&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eqselans&theme=dark" alt="eqselans" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TurkLirasiBOT&theme=dark" alt="TurkLirasiBOT" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=TurkLirasiBOT" alt="TurkLirasiBOT" /></a> </p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=TurkLirasiBOT" alt="TurkLirasiBOT" /></p>
 
 ## Katkılarım
 
