@@ -14,6 +14,10 @@ Ben Cemo Baskann, yazılıma ilgi duyan birisiyim. Teknoloji/Tasarım/Java konul
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=TurkLirasiBOT&show_icons=true&count_private=true&hide=stars)
 
+## Katkılarım
+
+Toplamda **<KATKI_SAYISI>** adet katkıda bulundum.
+
 ## Blog
 
 GitHub profilimdeki blog yazılarıma [buradan](https://dismount-rpg.com.tr/blog) ulaşabilirsiniz.
